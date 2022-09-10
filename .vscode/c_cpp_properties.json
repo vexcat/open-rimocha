@@ -1,0 +1,14 @@
+{
+  "configurations": [
+    {
+      "name": "ESP32",
+      "intelliSenseMode": "linux-gcc-x64",
+      "compilerPath": "/home/ungato/.espressif/tools/xtensa-esp32-elf/esp-2022r1-11.2.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-gcc",
+      "cStandard": "c17",
+      "cppStandard": "c++14",
+      "compileCommands": "build/compile_commands.json",
+      "forcedInclude": ["${workspaceFolder}/.vscode/esp32.h"]
+    }
+  ],
+  "version": 4
+}

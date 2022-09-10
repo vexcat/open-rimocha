@@ -1,0 +1,13 @@
+{
+  "files.associations": {
+    "err.h": "c",
+    "opt.h": "c",
+    "lwipopts.h": "c",
+    "debug.h": "c",
+    "arch.h": "c",
+    "cc.h": "c",
+    "sys_arch.h": "c"
+  },
+  "idf.adapterTargetName": "esp32",
+  "cmake.configureOnOpen": false
+}
